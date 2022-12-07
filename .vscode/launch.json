@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ExampleSpringBootMailApplication<example-spring-boot-mail>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "es.peenyaa7.examplespringbootmail.ExampleSpringBootMailApplication",
+            "projectName": "example-spring-boot-mail",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
